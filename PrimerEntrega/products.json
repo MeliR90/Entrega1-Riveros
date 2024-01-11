@@ -1,0 +1,104 @@
+[
+  {
+    "id": 0,
+    "title": "Fideos",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": [],
+    "code": "1234",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "title": "Arroz",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "1235",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "title": "Aceite",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "1236",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "title": "Vinagre",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "1237",
+    "stock": 25
+  },
+  {
+    "id": 5,
+    "title": "Oliva",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "1238",
+    "stock": 25
+  },
+  {
+    "id": 6,
+    "title": "Tomate",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "1239",
+    "stock": 25
+  },
+  {
+    "id": 7,
+    "title": "Lechuga",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "1241",
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "title": "Ajo",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "1242",
+    "stock": 23
+  },
+  {
+    "id": 9,
+    "title": "Cebolla",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "1243",
+    "stock": 25
+  },
+  {
+    "id": 10,
+    "title": "Acelga",
+    "description": "Este es un producto prueba",
+    "price": 200,
+    "thumbnail": "Sin imagen",
+    "code": "1244",
+    "stock": 25
+  },
+  {
+    "id": 11,
+    "title": "producto prueba test update",
+    "description": "Este es un producto prueba update",
+    "price": 200,
+    "thumbnails": [],
+    "code": "1234",
+    "stock": 25,
+    "status": true,
+    "category": "Almacen",
+    "thumbnail": []
+  }
+]
